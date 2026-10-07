@@ -33,4 +33,4 @@ The processing pipeline was used to obtain a calibrated, normalized, and lineari
 
 ## Academic Context
 
-This project was developed as part of the **Master's Degree in Astronomy and Astrophysics** at the Universitat Internacional de València (VIU).
+This project was developed as part of the **Master's Degree in Astronomy and Astrophysics** at the Valencian Internacional Univercity (VIU).
